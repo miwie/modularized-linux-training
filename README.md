@@ -8,7 +8,7 @@ bash
 ----
 The bash man page is huge and contains everything you always wanted to know about bash. Unfortunately you have to search a lot if you don't exactly know what you are looking for. This course provides flattened material about using the bash and writing good bash scripts. All paragraphs have the **same name as in the original bash man page**. So if you want to dig deeper, just search for the paragraph name in the original bash man page.
 
-To install (e.g. on debian) clone this repository and create the desired package:
+To install (e.g. on Debian) clone this repository and create the desired package:
 
     sudo apt-get install ruby-ronn
     git clone https://github.com/ImmobilienScout24/modularized-linux-training.git
